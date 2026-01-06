@@ -1,0 +1,13 @@
+C:\Users\Josel\OneDrive\Documentos\NetBeansProjects\E-Books\Negocio\ObjetosNegocio\src\main\java\dtos\DetalleOrdenDTO.java
+C:\Users\Josel\OneDrive\Documentos\NetBeansProjects\E-Books\Negocio\ObjetosNegocio\src\main\java\dtos\LibroDTO.java
+C:\Users\Josel\OneDrive\Documentos\NetBeansProjects\E-Books\Negocio\ObjetosNegocio\src\main\java\dtos\OrdenDTO.java
+C:\Users\Josel\OneDrive\Documentos\NetBeansProjects\E-Books\Negocio\ObjetosNegocio\src\main\java\dtos\UsuarioDTO.java
+C:\Users\Josel\OneDrive\Documentos\NetBeansProjects\E-Books\Negocio\ObjetosNegocio\src\main\java\negocio\adaptadores\LibroAdapter.java
+C:\Users\Josel\OneDrive\Documentos\NetBeansProjects\E-Books\Negocio\ObjetosNegocio\src\main\java\negocio\adaptadores\OrdenAdapter.java
+C:\Users\Josel\OneDrive\Documentos\NetBeansProjects\E-Books\Negocio\ObjetosNegocio\src\main\java\negocio\adaptadores\UsuarioAdapter.java
+C:\Users\Josel\OneDrive\Documentos\NetBeansProjects\E-Books\Negocio\ObjetosNegocio\src\main\java\negocio\interfaces\ILibroBO.java
+C:\Users\Josel\OneDrive\Documentos\NetBeansProjects\E-Books\Negocio\ObjetosNegocio\src\main\java\negocio\interfaces\IOrdenBO.java
+C:\Users\Josel\OneDrive\Documentos\NetBeansProjects\E-Books\Negocio\ObjetosNegocio\src\main\java\negocio\interfaces\IUsuarioBO.java
+C:\Users\Josel\OneDrive\Documentos\NetBeansProjects\E-Books\Negocio\ObjetosNegocio\src\main\java\negocio\LibroBO.java
+C:\Users\Josel\OneDrive\Documentos\NetBeansProjects\E-Books\Negocio\ObjetosNegocio\src\main\java\negocio\OrdenBO.java
+C:\Users\Josel\OneDrive\Documentos\NetBeansProjects\E-Books\Negocio\ObjetosNegocio\src\main\java\negocio\UsuarioBO.java

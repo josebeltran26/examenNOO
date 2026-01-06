@@ -1,0 +1,13 @@
+negocio\adaptadores\LibroAdapter.class
+negocio\LibroBO.class
+dtos\OrdenDTO.class
+dtos\UsuarioDTO.class
+dtos\DetalleOrdenDTO.class
+negocio\adaptadores\OrdenAdapter.class
+negocio\interfaces\IUsuarioBO.class
+negocio\OrdenBO.class
+negocio\adaptadores\UsuarioAdapter.class
+dtos\LibroDTO.class
+negocio\UsuarioBO.class
+negocio\interfaces\IOrdenBO.class
+negocio\interfaces\ILibroBO.class

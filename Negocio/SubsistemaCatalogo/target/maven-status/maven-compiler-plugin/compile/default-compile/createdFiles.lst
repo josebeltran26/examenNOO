@@ -1,0 +1,3 @@
+subsistema\catalogo\fachada\CatalogoFachada.class
+subsistema\catalogo\interfaz\ICatalogo.class
+subsistema\catalogo\control\ControlCatalogo.class
